@@ -7,9 +7,9 @@
 ###
 
 <h2 align="left">
-  1.Real-Time Data: Harnessing the power of a dynamic movie database API, our app provides up-to-date information on an extensive range of films. From the latest releases to timeless classics, our catalog is always current and comprehensive.
+  1.Real-Time Data: Harnessing the power of a dynamic movie database API, our app provides up-to-date information on an extensive range of films. From the latest releases to timeless is always current and comprehensive.
 <br>
-2.Instant Search Results: With lightning-fast search functionality, finding your favorite movies is a breeze. Simply enter a title, actor, director, or keyword, and our app fetches precise results in milliseconds, thanks to seamless integration with the API.
+2.Instant Search Results: With lightning-fast search functionality, finding your favorite movies is a breeze. Simply enter a title or keyword, and our app fetches precise results in milliseconds, thanks to seamless integration with the API.
 </h2>
 
 ###
